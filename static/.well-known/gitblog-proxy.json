@@ -2,5 +2,13 @@
   "version": 1,
   "hostname": "cloudflare-test.gitblog.page",
   "repositoryId": 1429574253,
-  "token": "10c9727b-3f99-4f6a-b3fd-5a5e674468b5"
+  "token": "10c9727b-3f99-4f6a-b3fd-5a5e674468b5",
+  "origin": {
+    "hostname": "cloudflare-test-65j.pages.dev",
+    "publicKey": {
+      "kty": "OKP",
+      "crv": "Ed25519",
+      "x": "Uu0PIdl3zt-H1h9Yl4DQMg9DgaUIV7LOsr51rGLT2lQ"
+    }
+  }
 }
