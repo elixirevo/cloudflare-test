@@ -59,7 +59,8 @@
 		"test:app-access": "node ./tests/test-app-access.mjs",
 		"images:optimize": "node ./scripts/optimize-images.mjs",
 		"test:images": "node --test tests/test-images.mjs",
-		"test:deployment": "node ./tests/test-deployment.mjs"
+		"test:deployment": "node ./tests/test-deployment.mjs",
+		"test:memberships": "node ./tests/test-memberships.mjs"
 	},
 	"devDependencies": {
 		"@eslint/compat": "^2.0.3",
